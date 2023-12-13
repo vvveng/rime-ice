@@ -21,6 +21,7 @@ show_notifications_when: always # always；never；或者用`+`号连接以下�
 # 字体、布局、窗口等样式设定
 style:
   # 字体设定
+  
   # 字体1[:起始码位:结束码位:字重:字形][,字体2 ...]，详情请参考 <https://github.com/rime/weasel/wiki/字體設定>
   # 字体会依次 fallback
   font_face: "Microsoft YaHei" # 全局字体。为了让部分复合型 emoji 正常显示，可以将 emoji 字体放在首位，并指定起始码位防止影响其他字符。refer <https://github.com/rime/weasel/issues/932> 例如：
