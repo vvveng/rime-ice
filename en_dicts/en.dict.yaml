@@ -14,7 +14,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2024-04-10"
+version: "2024-04-19"
 sort: by_weight
 ...
 # +_+
@@ -2338,7 +2338,9 @@ braille	braille
 brain	brain
 brains	brains
 brake	brake
+braked	braked
 brakes	brakes
+braking	braking
 branch	branch
 branches	branches
 brand	brand
@@ -6705,6 +6707,7 @@ excitement	excitement
 exciting	exciting
 # excl	excl
 exclaim	exclaim
+exclaimed	exclaimed
 exclamation	exclamation
 exclude	exclude
 excluded	excluded
@@ -6722,10 +6725,12 @@ exec	exec
 executable	executable
 execute	execute
 executed	executed
+executes	executes
 executing	executing
 execution	execution
 executive	executive
 executives	executives
+executor	executor
 exemplary	exemplary
 exemplify	exemplify
 exempt	exempt
@@ -7092,6 +7097,7 @@ feelings	feelings
 feels	feels
 fees	fees
 feet	feet
+feign	feign
 Felix	Felix
 fell	fell
 fellow	fellow
@@ -9290,7 +9296,6 @@ imaging	imaging
 IMAP	IMAP
 # imc	imc
 IMDb	IMDb
-# imf	imf
 img	img
 imitate	imitate
 imitation	imitation
@@ -9737,6 +9742,13 @@ interaction	interaction
 interactions	interactions
 interactive	interactive
 intercept	intercept
+intercepted	intercepted
+intercepting	intercepting
+interception	interception
+interceptions	interceptions
+interceptive	interceptive
+interceptor	interceptor
+intercepts	intercepts
 interchange	interchange
 interconnect	interconnect
 interconnection	interconnection
@@ -13351,13 +13363,13 @@ overcoming	overcoming
 overdose	overdose
 overdrive	overdrive
 overestimate	overestimate
+overfit	overfit
+overfitting	overfitting
 overflow	overflow
 overhang	overhang
 overhaul	overhaul
 overhead	overhead
 overhear	overhear
-overfit	overfit
-overfitting	overfitting
 overland	overland
 overlap	overlap
 overlapping	overlapping
